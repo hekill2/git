@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeAJgw18vqS9iaNTO9sA/YiCJmbZIHFKD+985kEOS7pOTwlI11drxG43BRnRiGmeQ0FFrtTdsyhH18Jg/dy48A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivana\\Source\\Repos\\project-college\\Groups\\Groups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivana\\.nuget\\packages\\mstest.testframework\\3.2.2\\mstest.testframework.3.2.2.nupkg.sha512",
+    "C:\\Users\\ivana\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
